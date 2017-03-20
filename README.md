@@ -1,2 +1,9 @@
-# Exile-Australia
-Exile 1.0.2 compatible mission for Australia
+/*
+
+Exile 1.0.2 compatible missions for Australia
+
+by [FPS]kuplion
+
+http://www.friendlyplayershooting.com
+
+*/

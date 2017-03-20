@@ -1,0 +1,1703 @@
+version=12;
+class Mission
+{
+	addOns[]=
+	{
+		"exile_client",
+		"australia"
+	};
+	addOnsAuto[]=
+	{
+		"exile_client",
+		"australia"
+	};
+	randomSeed=8080942;
+	class Intel
+	{
+		timeOfChanges=1800.0002;
+		startWeather=0.30000001;
+		startWind=0.1;
+		startWaves=0.1;
+		forecastWeather=0.30000001;
+		forecastWind=0.1;
+		forecastWaves=0.1;
+		forecastLightnings=0.1;
+		year=2039;
+		month=6;
+		day=24;
+		hour=12;
+		minute=0;
+		startFogDecay=0.013;
+		forecastFogDecay=0.013;
+	};
+	class Groups
+	{
+		items=1;
+		class Item0
+		{
+			side="GUER";
+			class Vehicles
+			{
+				items=100;
+				class Item0
+				{
+					position[]={13237.161,20.660374,11705.338};
+					special="NONE";
+					id=0;
+					side="GUER";
+					vehicle="Exile_Unit_GhostPlayer";
+					player="PLAY CDG";
+					leader=1;
+					skill=0.60000002;
+				};
+				class Item1
+				{
+					position[]={13234.718,19.578526,11705.455};
+					special="NONE";
+					id=1;
+					side="GUER";
+					vehicle="Exile_Unit_GhostPlayer";
+					player="PLAY CDG";
+					skill=0.60000002;
+				};
+				class Item2
+				{
+					position[]={13232.741,18.706799,11705.57};
+					special="NONE";
+					id=2;
+					side="GUER";
+					vehicle="Exile_Unit_GhostPlayer";
+					player="PLAY CDG";
+					skill=0.60000002;
+				};
+				class Item3
+				{
+					position[]={13230.821,17.984247,11705.514};
+					special="NONE";
+					id=3;
+					side="GUER";
+					vehicle="Exile_Unit_GhostPlayer";
+					player="PLAY CDG";
+					skill=0.60000002;
+				};
+				class Item4
+				{
+					position[]={13228.785,17.412029,11705.281};
+					special="NONE";
+					id=4;
+					side="GUER";
+					vehicle="Exile_Unit_GhostPlayer";
+					player="PLAY CDG";
+					skill=0.60000002;
+				};
+				class Item5
+				{
+					position[]={13226.924,16.956467,11705.455};
+					special="NONE";
+					id=5;
+					side="GUER";
+					vehicle="Exile_Unit_GhostPlayer";
+					player="PLAY CDG";
+					skill=0.60000002;
+				};
+				class Item6
+				{
+					position[]={13225.296,16.538645,11705.048};
+					special="NONE";
+					id=6;
+					side="GUER";
+					vehicle="Exile_Unit_GhostPlayer";
+					player="PLAY CDG";
+					skill=0.60000002;
+				};
+				class Item7
+				{
+					position[]={13223.492,16.139071,11705.514};
+					special="NONE";
+					id=7;
+					side="GUER";
+					vehicle="Exile_Unit_GhostPlayer";
+					player="PLAY CDG";
+					skill=0.60000002;
+				};
+				class Item8
+				{
+					position[]={13221.398,15.754031,11705.338};
+					special="NONE";
+					id=8;
+					side="GUER";
+					vehicle="Exile_Unit_GhostPlayer";
+					player="PLAY CDG";
+					skill=0.60000002;
+				};
+				class Item9
+				{
+					position[]={13219.652,15.484016,11705.398};
+					special="NONE";
+					id=9;
+					side="GUER";
+					vehicle="Exile_Unit_GhostPlayer";
+					player="PLAY CDG";
+					skill=0.60000002;
+				};
+				class Item10
+				{
+					position[]={13237.393,20.350965,11702.838};
+					special="NONE";
+					id=10;
+					side="GUER";
+					vehicle="Exile_Unit_GhostPlayer";
+					player="PLAY CDG";
+					skill=0.60000002;
+				};
+				class Item11
+				{
+					position[]={13235.357,19.481894,11703.129};
+					special="NONE";
+					id=11;
+					side="GUER";
+					vehicle="Exile_Unit_GhostPlayer";
+					player="PLAY CDG";
+					skill=0.60000002;
+				};
+				class Item12
+				{
+					position[]={13233.264,18.675148,11702.896};
+					special="NONE";
+					id=12;
+					side="GUER";
+					vehicle="Exile_Unit_GhostPlayer";
+					player="PLAY CDG";
+					skill=0.60000002;
+				};
+				class Item13
+				{
+					position[]={13231.229,18.033972,11703.188};
+					special="NONE";
+					id=13;
+					side="GUER";
+					vehicle="Exile_Unit_GhostPlayer";
+					player="PLAY CDG";
+					skill=0.60000002;
+				};
+				class Item14
+				{
+					position[]={13229.25,17.450659,11703.068};
+					special="NONE";
+					id=14;
+					side="GUER";
+					vehicle="Exile_Unit_GhostPlayer";
+					player="PLAY CDG";
+					skill=0.60000002;
+				};
+				class Item15
+				{
+					position[]={13227.622,17.044769,11703.012};
+					special="NONE";
+					id=15;
+					side="GUER";
+					vehicle="Exile_Unit_GhostPlayer";
+					player="PLAY CDG";
+					skill=0.60000002;
+				};
+				class Item16
+				{
+					position[]={13225.411,16.547203,11703.129};
+					special="NONE";
+					id=16;
+					side="GUER";
+					vehicle="Exile_Unit_GhostPlayer";
+					player="PLAY CDG";
+					skill=0.60000002;
+				};
+				class Item17
+				{
+					position[]={13223.608,16.157663,11703.068};
+					special="NONE";
+					id=17;
+					side="GUER";
+					vehicle="Exile_Unit_GhostPlayer";
+					player="PLAY CDG";
+					skill=0.60000002;
+				};
+				class Item18
+				{
+					position[]={13221.864,15.82023,11703.188};
+					special="NONE";
+					id=18;
+					side="GUER";
+					vehicle="Exile_Unit_GhostPlayer";
+					player="PLAY CDG";
+					skill=0.60000002;
+				};
+				class Item19
+				{
+					position[]={13219.537,15.460279,11703.188};
+					special="NONE";
+					id=19;
+					side="GUER";
+					vehicle="Exile_Unit_GhostPlayer";
+					player="PLAY CDG";
+					skill=0.60000002;
+				};
+				class Item20
+				{
+					position[]={13237.684,20.122702,11700.919};
+					special="NONE";
+					id=20;
+					side="GUER";
+					vehicle="Exile_Unit_GhostPlayer";
+					player="PLAY CDG";
+					skill=0.60000002;
+				};
+				class Item21
+				{
+					position[]={13235.242,19.243696,11701.034};
+					special="NONE";
+					id=21;
+					side="GUER";
+					vehicle="Exile_Unit_GhostPlayer";
+					player="PLAY CDG";
+					skill=0.60000002;
+				};
+				class Item22
+				{
+					position[]={13233.03,18.533854,11700.976};
+					special="NONE";
+					id=22;
+					side="GUER";
+					vehicle="Exile_Unit_GhostPlayer";
+					player="PLAY CDG";
+					skill=0.60000002;
+				};
+				class Item23
+				{
+					position[]={13230.764,17.812525,11701.093};
+					special="NONE";
+					id=23;
+					side="GUER";
+					vehicle="Exile_Unit_GhostPlayer";
+					player="PLAY CDG";
+					skill=0.60000002;
+				};
+				class Item24
+				{
+					position[]={13229.134,17.34927,11700.976};
+					special="NONE";
+					id=24;
+					side="GUER";
+					vehicle="Exile_Unit_GhostPlayer";
+					player="PLAY CDG";
+					skill=0.60000002;
+				};
+				class Item25
+				{
+					position[]={13227.389,16.968922,11701.093};
+					special="NONE";
+					id=25;
+					side="GUER";
+					vehicle="Exile_Unit_GhostPlayer";
+					player="PLAY CDG";
+					skill=0.60000002;
+				};
+				class Item26
+				{
+					position[]={13225.296,16.517365,11701.209};
+					special="NONE";
+					id=26;
+					side="GUER";
+					vehicle="Exile_Unit_GhostPlayer";
+					player="PLAY CDG";
+					skill=0.60000002;
+				};
+				class Item27
+				{
+					position[]={13223.435,16.115486,11701.268};
+					special="NONE";
+					id=27;
+					side="GUER";
+					vehicle="Exile_Unit_GhostPlayer";
+					player="PLAY CDG";
+					skill=0.60000002;
+				};
+				class Item28
+				{
+					position[]={13221.456,15.7518,11701.209};
+					special="NONE";
+					id=28;
+					side="GUER";
+					vehicle="Exile_Unit_GhostPlayer";
+					player="PLAY CDG";
+					skill=0.60000002;
+				};
+				class Item29
+				{
+					position[]={13219.304,15.384468,11701.326};
+					special="NONE";
+					id=29;
+					side="GUER";
+					vehicle="Exile_Unit_GhostPlayer";
+					player="PLAY CDG";
+					skill=0.60000002;
+				};
+				class Item30
+				{
+					position[]={13237.858,19.79587,11699.057};
+					special="NONE";
+					id=30;
+					side="GUER";
+					vehicle="Exile_Unit_GhostPlayer";
+					player="PLAY CDG";
+					skill=0.60000002;
+				};
+				class Item31
+				{
+					position[]={13235.066,18.972578,11698.881};
+					special="NONE";
+					id=31;
+					side="GUER";
+					vehicle="Exile_Unit_GhostPlayer";
+					player="PLAY CDG";
+					skill=0.60000002;
+				};
+				class Item32
+				{
+					position[]={13232.799,18.265938,11699};
+					special="NONE";
+					id=32;
+					side="GUER";
+					vehicle="Exile_Unit_GhostPlayer";
+					player="PLAY CDG";
+					skill=0.60000002;
+				};
+				class Item33
+				{
+					position[]={13230.473,17.599703,11699.115};
+					special="NONE";
+					id=33;
+					side="GUER";
+					vehicle="Exile_Unit_GhostPlayer";
+					player="PLAY CDG";
+					skill=0.60000002;
+				};
+				class Item34
+				{
+					position[]={13228.785,17.253115,11699};
+					special="NONE";
+					id=34;
+					side="GUER";
+					vehicle="Exile_Unit_GhostPlayer";
+					player="PLAY CDG";
+					skill=0.60000002;
+				};
+				class Item35
+				{
+					position[]={13227.272,16.924681,11698.881};
+					special="NONE";
+					id=35;
+					side="GUER";
+					vehicle="Exile_Unit_GhostPlayer";
+					player="PLAY CDG";
+					skill=0.60000002;
+				};
+				class Item36
+				{
+					position[]={13225.063,16.448162,11698.939};
+					special="NONE";
+					id=36;
+					side="GUER";
+					vehicle="Exile_Unit_GhostPlayer";
+					player="PLAY CDG";
+					skill=0.60000002;
+				};
+				class Item37
+				{
+					position[]={13223.201,16.043352,11699.057};
+					special="NONE";
+					id=37;
+					side="GUER";
+					vehicle="Exile_Unit_GhostPlayer";
+					player="PLAY CDG";
+					skill=0.60000002;
+				};
+				class Item38
+				{
+					position[]={13221.805,15.756227,11699};
+					special="NONE";
+					id=38;
+					side="GUER";
+					vehicle="Exile_Unit_GhostPlayer";
+					player="PLAY CDG";
+					skill=0.60000002;
+				};
+				class Item39
+				{
+					position[]={13219.421,15.350844,11699.23};
+					special="NONE";
+					id=39;
+					side="GUER";
+					vehicle="Exile_Unit_GhostPlayer";
+					player="PLAY CDG";
+					skill=0.60000002;
+				};
+				class Item40
+				{
+					position[]={13237.918,19.454409,11696.905};
+					special="NONE";
+					id=40;
+					side="GUER";
+					vehicle="Exile_Unit_GhostPlayer";
+					player="PLAY CDG";
+					skill=0.60000002;
+				};
+				class Item41
+				{
+					position[]={13236.288,19.065742,11697.021};
+					special="NONE";
+					id=41;
+					side="GUER";
+					vehicle="Exile_Unit_GhostPlayer";
+					player="PLAY CDG";
+					skill=0.60000002;
+				};
+				class Item42
+				{
+					position[]={13234.486,18.498407,11697.078};
+					special="NONE";
+					id=42;
+					side="GUER";
+					vehicle="Exile_Unit_GhostPlayer";
+					player="PLAY CDG";
+					skill=0.60000002;
+				};
+				class Item43
+				{
+					position[]={13232.334,17.895802,11697.138};
+					special="NONE";
+					id=43;
+					side="GUER";
+					vehicle="Exile_Unit_GhostPlayer";
+					player="PLAY CDG";
+					skill=0.60000002;
+				};
+				class Item44
+				{
+					position[]={13230.064,17.49938,11697.138};
+					special="NONE";
+					id=44;
+					side="GUER";
+					vehicle="Exile_Unit_GhostPlayer";
+					player="PLAY CDG";
+					skill=0.60000002;
+				};
+				class Item45
+				{
+					position[]={13227.68,16.987776,11697.196};
+					special="NONE";
+					id=45;
+					side="GUER";
+					vehicle="Exile_Unit_GhostPlayer";
+					player="PLAY CDG";
+					skill=0.60000002;
+				};
+				class Item46
+				{
+					position[]={13225.645,16.549015,11697.254};
+					special="NONE";
+					id=46;
+					side="GUER";
+					vehicle="Exile_Unit_GhostPlayer";
+					player="PLAY CDG";
+					skill=0.60000002;
+				};
+				class Item47
+				{
+					position[]={13224.074,16.186087,11697.196};
+					special="NONE";
+					id=47;
+					side="GUER";
+					vehicle="Exile_Unit_GhostPlayer";
+					player="PLAY CDG";
+					skill=0.60000002;
+				};
+				class Item48
+				{
+					position[]={13221.864,15.70447,11697.138};
+					special="NONE";
+					id=48;
+					side="GUER";
+					vehicle="Exile_Unit_GhostPlayer";
+					player="PLAY CDG";
+					skill=0.60000002;
+				};
+				class Item49
+				{
+					position[]={13220.003,15.385726,11697.254};
+					special="NONE";
+					id=49;
+					side="GUER";
+					vehicle="Exile_Unit_GhostPlayer";
+					player="PLAY CDG";
+					skill=0.60000002;
+				};
+				class Item50
+				{
+					position[]={13237.918,19.109877,11694.752};
+					special="NONE";
+					id=50;
+					side="GUER";
+					vehicle="Exile_Unit_GhostPlayer";
+					player="PLAY CDG";
+					skill=0.60000002;
+				};
+				class Item51
+				{
+					position[]={13236.639,18.824335,11694.811};
+					special="NONE";
+					id=51;
+					side="GUER";
+					vehicle="Exile_Unit_GhostPlayer";
+					player="PLAY CDG";
+					skill=0.60000002;
+				};
+				class Item52
+				{
+					position[]={13234.602,18.260323,11694.984};
+					special="NONE";
+					id=52;
+					side="GUER";
+					vehicle="Exile_Unit_GhostPlayer";
+					player="PLAY CDG";
+					skill=0.60000002;
+				};
+				class Item53
+				{
+					position[]={13232.508,17.89632,11695.102};
+					special="NONE";
+					id=53;
+					side="GUER";
+					vehicle="Exile_Unit_GhostPlayer";
+					player="PLAY CDG";
+					skill=0.60000002;
+				};
+				class Item54
+				{
+					position[]={13230.473,17.539976,11695.043};
+					special="NONE";
+					id=54;
+					side="GUER";
+					vehicle="Exile_Unit_GhostPlayer";
+					player="PLAY CDG";
+					skill=0.60000002;
+				};
+				class Item55
+				{
+					position[]={13227.797,16.982367,11695.102};
+					special="NONE";
+					id=55;
+					side="GUER";
+					vehicle="Exile_Unit_GhostPlayer";
+					player="PLAY CDG";
+					skill=0.60000002;
+				};
+				class Item56
+				{
+					position[]={13225.936,16.558838,11695.275};
+					special="NONE";
+					id=56;
+					side="GUER";
+					vehicle="Exile_Unit_GhostPlayer";
+					player="PLAY CDG";
+					skill=0.60000002;
+				};
+				class Item57
+				{
+					position[]={13223.666,16.026239,11695.275};
+					special="NONE";
+					id=57;
+					side="GUER";
+					vehicle="Exile_Unit_GhostPlayer";
+					player="PLAY CDG";
+					skill=0.60000002;
+				};
+				class Item58
+				{
+					position[]={13221.805,15.632082,11695.275};
+					special="NONE";
+					id=58;
+					side="GUER";
+					vehicle="Exile_Unit_GhostPlayer";
+					player="PLAY CDG";
+					skill=0.60000002;
+				};
+				class Item59
+				{
+					position[]={13219.246,15.186598,11695.567};
+					special="NONE";
+					id=59;
+					side="GUER";
+					vehicle="Exile_Unit_GhostPlayer";
+					player="PLAY CDG";
+					skill=0.60000002;
+				};
+				class Item60
+				{
+					position[]={13237.801,18.862562,11693.24};
+					special="NONE";
+					id=60;
+					side="GUER";
+					vehicle="Exile_Unit_GhostPlayer";
+					player="PLAY CDG";
+					skill=0.60000002;
+				};
+				class Item61
+				{
+					position[]={13235.242,18.339025,11692.718};
+					special="NONE";
+					id=61;
+					side="GUER";
+					vehicle="Exile_Unit_GhostPlayer";
+					player="PLAY CDG";
+					skill=0.60000002;
+				};
+				class Item62
+				{
+					position[]={13233.09,17.966444,11692.948};
+					special="NONE";
+					id=62;
+					side="GUER";
+					vehicle="Exile_Unit_GhostPlayer";
+					player="PLAY CDG";
+					skill=0.60000002;
+				};
+				class Item63
+				{
+					position[]={13230.995,17.602283,11693.065};
+					special="NONE";
+					id=63;
+					side="GUER";
+					vehicle="Exile_Unit_GhostPlayer";
+					player="PLAY CDG";
+					skill=0.60000002;
+				};
+				class Item64
+				{
+					position[]={13228.843,17.171389,11693.182};
+					special="NONE";
+					id=64;
+					side="GUER";
+					vehicle="Exile_Unit_GhostPlayer";
+					player="PLAY CDG";
+					skill=0.60000002;
+				};
+				class Item65
+				{
+					position[]={13227.506,16.857502,11693.182};
+					special="NONE";
+					id=65;
+					side="GUER";
+					vehicle="Exile_Unit_GhostPlayer";
+					player="PLAY CDG";
+					skill=0.60000002;
+				};
+				class Item66
+				{
+					position[]={13225.47,16.389393,11693.473};
+					special="NONE";
+					id=66;
+					side="GUER";
+					vehicle="Exile_Unit_GhostPlayer";
+					player="PLAY CDG";
+					skill=0.60000002;
+				};
+				class Item67
+				{
+					position[]={13224.074,16.061972,11693.473};
+					special="NONE";
+					id=67;
+					side="GUER";
+					vehicle="Exile_Unit_GhostPlayer";
+					player="PLAY CDG";
+					skill=0.60000002;
+				};
+				class Item68
+				{
+					position[]={13221.864,15.586153,11693.588};
+					special="NONE";
+					id=68;
+					side="GUER";
+					vehicle="Exile_Unit_GhostPlayer";
+					player="PLAY CDG";
+					skill=0.60000002;
+				};
+				class Item69
+				{
+					position[]={13219.421,15.041322,11693.648};
+					special="NONE";
+					id=69;
+					side="GUER";
+					vehicle="Exile_Unit_GhostPlayer";
+					player="PLAY CDG";
+					skill=0.60000002;
+				};
+				class Item70
+				{
+					position[]={13238.44,17.573044,11689.811};
+					special="NONE";
+					id=70;
+					side="GUER";
+					vehicle="Exile_Unit_GhostPlayer";
+					player="PLAY CDG";
+					skill=0.60000002;
+				};
+				class Item71
+				{
+					position[]={13236.696,17.677006,11689.926};
+					special="NONE";
+					id=71;
+					side="GUER";
+					vehicle="Exile_Unit_GhostPlayer";
+					player="PLAY CDG";
+					skill=0.60000002;
+				};
+				class Item72
+				{
+					position[]={13234.66,17.280449,11689.811};
+					special="NONE";
+					id=72;
+					side="GUER";
+					vehicle="Exile_Unit_GhostPlayer";
+					player="PLAY CDG";
+					skill=0.60000002;
+				};
+				class Item73
+				{
+					position[]={13232.043,16.925327,11689.982};
+					special="NONE";
+					id=73;
+					side="GUER";
+					vehicle="Exile_Unit_GhostPlayer";
+					player="PLAY CDG";
+					skill=0.60000002;
+				};
+				class Item74
+				{
+					position[]={13230.646,16.802464,11689.982};
+					special="NONE";
+					id=74;
+					side="GUER";
+					vehicle="Exile_Unit_GhostPlayer";
+					player="PLAY CDG";
+					skill=0.60000002;
+				};
+				class Item75
+				{
+					position[]={13228.437,16.41066,11690.102};
+					special="NONE";
+					id=75;
+					side="GUER";
+					vehicle="Exile_Unit_GhostPlayer";
+					player="PLAY CDG";
+					skill=0.60000002;
+				};
+				class Item76
+				{
+					position[]={13226.575,15.941986,11689.982};
+					special="NONE";
+					id=76;
+					side="GUER";
+					vehicle="Exile_Unit_GhostPlayer";
+					player="PLAY CDG";
+					skill=0.60000002;
+				};
+				class Item77
+				{
+					position[]={13224.48,15.510009,11690.041};
+					special="NONE";
+					id=77;
+					side="GUER";
+					vehicle="Exile_Unit_GhostPlayer";
+					player="PLAY CDG";
+					skill=0.60000002;
+				};
+				class Item78
+				{
+					position[]={13222.91,15.286004,11690.041};
+					special="NONE";
+					id=78;
+					side="GUER";
+					vehicle="Exile_Unit_GhostPlayer";
+					player="PLAY CDG";
+					skill=0.60000002;
+				};
+				class Item79
+				{
+					position[]={13220.991,14.880125,11690.102};
+					special="NONE";
+					id=79;
+					side="GUER";
+					vehicle="Exile_Unit_GhostPlayer";
+					player="PLAY CDG";
+					skill=0.60000002;
+				};
+				class Item80
+				{
+					position[]={13237.743,17.021715,11687.831};
+					special="NONE";
+					id=80;
+					side="GUER";
+					vehicle="Exile_Unit_GhostPlayer";
+					player="PLAY CDG";
+					skill=0.60000002;
+				};
+				class Item81
+				{
+					position[]={13235.531,16.812983,11688.063};
+					special="NONE";
+					id=81;
+					side="GUER";
+					vehicle="Exile_Unit_GhostPlayer";
+					player="PLAY CDG";
+					skill=0.60000002;
+				};
+				class Item82
+				{
+					position[]={13233.555,16.559767,11688.122};
+					special="NONE";
+					id=82;
+					side="GUER";
+					vehicle="Exile_Unit_GhostPlayer";
+					player="PLAY CDG";
+					skill=0.60000002;
+				};
+				class Item83
+				{
+					position[]={13230.764,16.298496,11688.063};
+					special="NONE";
+					id=83;
+					side="GUER";
+					vehicle="Exile_Unit_GhostPlayer";
+					player="PLAY CDG";
+					skill=0.60000002;
+				};
+				class Item84
+				{
+					position[]={13228.959,15.987162,11688.063};
+					special="NONE";
+					id=84;
+					side="GUER";
+					vehicle="Exile_Unit_GhostPlayer";
+					player="PLAY CDG";
+					skill=0.60000002;
+				};
+				class Item85
+				{
+					position[]={13227.04,15.567765,11688.179};
+					special="NONE";
+					id=85;
+					side="GUER";
+					vehicle="Exile_Unit_GhostPlayer";
+					player="PLAY CDG";
+					skill=0.60000002;
+				};
+				class Item86
+				{
+					position[]={13225.236,15.280163,11688.122};
+					special="NONE";
+					id=86;
+					side="GUER";
+					vehicle="Exile_Unit_GhostPlayer";
+					player="PLAY CDG";
+					skill=0.60000002;
+				};
+				class Item87
+				{
+					position[]={13223.608,15.037487,11688.063};
+					special="NONE";
+					id=87;
+					side="GUER";
+					vehicle="Exile_Unit_GhostPlayer";
+					player="PLAY CDG";
+					skill=0.60000002;
+				};
+				class Item88
+				{
+					position[]={13221.107,14.579975,11688.239};
+					special="NONE";
+					id=88;
+					side="GUER";
+					vehicle="Exile_Unit_GhostPlayer";
+					player="PLAY CDG";
+					skill=0.60000002;
+				};
+				class Item89
+				{
+					position[]={13219.77,14.262304,11688.239};
+					special="NONE";
+					id=89;
+					side="GUER";
+					vehicle="Exile_Unit_GhostPlayer";
+					player="PLAY CDG";
+					skill=0.60000002;
+				};
+				class Item90
+				{
+					position[]={13237.393,16.354242,11685.854};
+					special="NONE";
+					id=90;
+					side="GUER";
+					vehicle="Exile_Unit_GhostPlayer";
+					player="PLAY CDG";
+					skill=0.60000002;
+				};
+				class Item91
+				{
+					position[]={13235.416,16.09985,11685.795};
+					special="NONE";
+					id=91;
+					side="GUER";
+					vehicle="Exile_Unit_GhostPlayer";
+					player="PLAY CDG";
+					skill=0.60000002;
+				};
+				class Item92
+				{
+					position[]={13233.381,15.905619,11685.738};
+					special="NONE";
+					id=92;
+					side="GUER";
+					vehicle="Exile_Unit_GhostPlayer";
+					player="PLAY CDG";
+					skill=0.60000002;
+				};
+				class Item93
+				{
+					position[]={13230.938,15.690587,11685.738};
+					special="NONE";
+					id=93;
+					side="GUER";
+					vehicle="Exile_Unit_GhostPlayer";
+					player="PLAY CDG";
+					skill=0.60000002;
+				};
+				class Item94
+				{
+					position[]={13228.611,15.362325,11685.854};
+					special="NONE";
+					id=94;
+					side="GUER";
+					vehicle="Exile_Unit_GhostPlayer";
+					player="PLAY CDG";
+					skill=0.60000002;
+				};
+				class Item95
+				{
+					position[]={13226.518,15.063607,11685.854};
+					special="NONE";
+					id=95;
+					side="GUER";
+					vehicle="Exile_Unit_GhostPlayer";
+					player="PLAY CDG";
+					skill=0.60000002;
+				};
+				class Item96
+				{
+					position[]={13224.249,14.750255,11685.912};
+					special="NONE";
+					id=96;
+					side="GUER";
+					vehicle="Exile_Unit_GhostPlayer";
+					player="PLAY CDG";
+					skill=0.60000002;
+				};
+				class Item97
+				{
+					position[]={13221.456,14.273185,11686.029};
+					special="NONE";
+					id=97;
+					side="GUER";
+					vehicle="Exile_Unit_GhostPlayer";
+					player="PLAY CDG";
+					skill=0.60000002;
+				};
+				class Item98
+				{
+					position[]={13218.781,13.587149,11686.145};
+					special="NONE";
+					id=98;
+					side="GUER";
+					vehicle="Exile_Unit_GhostPlayer";
+					player="PLAY CDG";
+					skill=0.60000002;
+				};
+				class Item99
+				{
+					position[]={13239.08,16.010651,11685.795};
+					special="NONE";
+					id=99;
+					side="GUER";
+					vehicle="Exile_Unit_GhostPlayer";
+					player="PLAY CDG";
+					skill=0.60000002;
+				};
+			};
+		};
+	};
+	
+	class Markers
+	{
+		items=56;
+		class Item0
+		{
+			position[]={16486.422,8.4512844,33754.859};
+			name="SpawnDarwin";
+			text="Darwin";
+			type="ExileSpawnZone";
+			markerType="ELLIPSE";
+			colorName="ColorBlack";
+			fillName="Border";
+			a=500;
+			b=500;
+			drawBorder=1;
+		};
+		class Item1
+		{
+			position[]={16486.422,8.4512844,33754.859};
+			name="SpawnDarwinIcon";
+			text="";
+			type="ExileSpawnZoneIcon";
+		};
+		
+	
+		class Item2
+		{
+			position[]={35604.977,5.6619649,13034.473};
+			name="SpawnSydney";
+			text="Sydney";
+			type="ExileSpawnZone";
+			markerType="ELLIPSE";
+			colorName="ColorBlack";
+			fillName="Border";
+			a=500;
+			b=500;
+			drawBorder=1;
+		};
+		class Item3
+		{
+			position[]={35604.977,5.6619649,13034.473};
+			name="SpawnSydneyIcon";
+			text="";
+			type="ExileSpawnZoneIcon";
+		};
+		class Item4
+		{
+			position[]={31450.645,12.119143,11628.765};
+			name="SpawnVictoria";
+			text="Victoria";
+			type="ExileSpawnZone";
+			markerType="ELLIPSE";
+			colorName="ColorBlack";
+			fillName="Border";
+			a=500;
+			b=500;
+			drawBorder=1;
+		};
+		class Item5
+		{
+			position[]={31450.645,12.119143,11628.765};
+			name="SpawnVictoriaIcon";
+			text="";
+			type="ExileSpawnZoneIcon";
+		};
+		class Item6
+		{
+			position[]={35241.965,11.483736,8622.6387};
+			name="SpawnEden";
+			text="Eden";
+			type="ExileSpawnZone";
+			markerType="ELLIPSE";
+			colorName="ColorBlack";
+			fillName="Border";
+			a=500;
+			b=500;
+			drawBorder=1;
+		};
+		class Item7
+		{
+			position[]={35241.965,11.483736,8622.6387};
+			name="SpawnEdenIcon";
+			text="";
+			type="ExileSpawnZoneIcon";
+		};
+		class Item8
+		{
+			position[]={25482.441,9.3781071,12960.61};
+			name="SpawnAdelaid";
+			text="Adelaid";
+			type="ExileSpawnZone";
+			markerType="ELLIPSE";
+			colorName="ColorBlack";
+			fillName="Border";
+			a=500;
+			b=500;
+			drawBorder=1;
+		};
+		class Item9
+		{
+			position[]={25482.441,9.3781071,12960.61};
+			name="SpawnAdelaidIcon";
+			text="";
+			type="ExileSpawnZoneIcon";
+		};
+		class Item10
+		{
+			position[]={20615.725,7.5862494,12725.994};
+			name="SpawnPortLincoln";
+			text="Port Lincoln";
+			type="ExileSpawnZone";
+			markerType="ELLIPSE";
+			colorName="ColorBlack";
+			fillName="Border";
+			a=500;
+			b=500;
+			drawBorder=1;
+		};
+		class Item11
+		{
+			position[]={20615.725,7.5862494,12725.994};
+			name="SpawnPortLincolnIcon";
+			text="";
+			type="ExileSpawnZoneIcon";
+		};
+		class Item12
+		{
+			position[]={6240.3174,7.3837967,17835.916};
+			name="SpawnPert";
+			text="Pert";
+			type="ExileSpawnZone";
+			markerType="ELLIPSE";
+			colorName="ColorBlack";
+			fillName="Border";
+			a=500;
+			b=500;
+			drawBorder=1;
+		};
+		class Item13
+		{
+			position[]={6240.3174,7.3837967,17835.916};
+			name="SpawnPertIcon";
+			text="";
+			type="ExileSpawnZoneIcon";
+		};
+		class Item14
+		{
+			position[]={22471.428,19.482258,25756.689};
+			name="SpawnAliceSprings";
+			text="Alice Spring";
+			type="ExileSpawnZone";
+			markerType="ELLIPSE";
+			colorName="ColorBlack";
+			fillName="Border";
+			a=500;
+			b=500;
+			drawBorder=1;
+		};
+		class Item15
+		{
+			position[]={22471.428,19.482258,25756.689};
+			name="SpawnAliceSpringsIcon";
+			text="";
+			type="ExileSpawnZoneIcon";
+		};
+		class Item16
+		{
+			position[]={28632.602,6.4091611,35099.473};
+			name="SpawnWeipa";
+			text="Weipa";
+			type="ExileSpawnZone";
+			markerType="ELLIPSE";
+			colorName="ColorBlack";
+			fillName="Border";
+			a=500;
+			b=500;
+			drawBorder=1;
+		};
+		class Item17
+		{
+			position[]={28632.602,6.4091611,35099.473};
+			name="SpawnWeipaIcon";
+			text="";
+			type="ExileSpawnZoneIcon";
+		};
+		class Item18
+		{
+			position[]={38536.375,11.836349,20507.801};
+			name="SpawnBrisbane";
+			text="Brisbane";
+			type="ExileSpawnZone";
+			markerType="ELLIPSE";
+			colorName="ColorBlack";
+			fillName="Border";
+			a=500;
+			b=500;
+			drawBorder=1;
+		};
+		class Item19
+		{
+			position[]={38536.375,11.836349,20507.801};
+			name="SpawnBrisbaneIcon";
+			text="";
+			type="ExileSpawnZoneIcon";
+		};
+		class Item20
+		{
+			position[]={32000.576,52.904076,16862.18};
+			name="SpawnWillcania";
+			text="Willcania";
+			type="ExileSpawnZone";
+			markerType="ELLIPSE";
+			colorName="ColorBlack";
+			fillName="Border";
+			a=500;
+			b=500;
+			drawBorder=1;
+		};
+		class Item21
+		{
+			position[]={32000.576,52.904076,16862.18};
+			name="SpawnWillcaniaIcon";
+			text="";
+			type="ExileSpawnZoneIcon";
+		};
+		class Item22
+		{
+			position[]={27950.654,29.283953,17021.475};
+			name="SpawnBrokenHill";
+			text="Broken Hill";
+			type="ExileSpawnZone";
+			markerType="ELLIPSE";
+			colorName="ColorBlack";
+			fillName="Border";
+			a=500;
+			b=500;
+			drawBorder=1;
+		};
+		class Item23
+		{
+			position[]={27950.654,29.283953,17021.475};
+			name="SpawnBrokenHillIcon";
+			text="";
+			type="ExileSpawnZoneIcon";
+		};
+		class Item24
+		{
+			position[]={30995.936,28.810036,20227.203};
+			name="SpawnToowoomba";
+			text="Toowoomba";
+			type="ExileSpawnZone";
+			markerType="ELLIPSE";
+			colorName="ColorBlack";
+			fillName="Border";
+			a=500;
+			b=500;
+			drawBorder=1;
+		};
+		class Item25
+		{
+			position[]={30995.936,28.810036,20227.203};
+			name="SpawnToowoombaIcon";
+			text="";
+			type="ExileSpawnZoneIcon";
+		};
+		class Item26
+		{
+			position[]={22451.072,13.901576,19382.842};
+			name="SpawnCooberPedy";
+			text="Coober Pedy";
+			type="ExileSpawnZone";
+			markerType="ELLIPSE";
+			colorName="ColorBlack";
+			fillName="Border";
+			a=500;
+			b=500;
+			drawBorder=1;
+		};
+		class Item27
+		{
+			position[]={22451.072,13.901576,19382.842};
+			name="SpawnCooberPedyIcon";
+			text="";
+			type="ExileSpawnZoneIcon";
+		};
+		class Item28
+		{
+			position[]={10528.854,77.813286,25205.086};
+			name="SpawnWestAustralia";
+			text="West Australia";
+			type="ExileSpawnZone";
+			markerType="ELLIPSE";
+			colorName="ColorBlack";
+			fillName="Border";
+			a=500;
+			b=500;
+			drawBorder=1;
+		};
+		class Item29
+		{
+			position[]={10528.854,77.813286,25205.086};
+			name="SpawnWestAustraliaIcon";
+			text="";
+			type="ExileSpawnZoneIcon";
+		};
+		class Item30
+		{
+			position[]={19947.783,83.170258,29074.281};
+			name="SpawnNorthernTerritory";
+			text="Nothern Territory";
+			type="ExileSpawnZone";
+			markerType="ELLIPSE";
+			colorName="ColorBlack";
+			fillName="Border";
+			a=500;
+			b=500;
+			drawBorder=1;
+		};
+		class Item31
+		{
+			position[]={19947.783,83.170258,29074.281};
+			name="SpawnNorthernTerritoryIcon";
+			text="";
+			type="ExileSpawnZoneIcon";
+		};
+		class Item32
+		{
+			position[]={26932.094,7.6908693,28167.186};
+			name="SpawnMountIsa";
+			text="Mount Isa";
+			type="ExileSpawnZone";
+			markerType="ELLIPSE";
+			colorName="ColorBlack";
+			fillName="Border";
+			a=500;
+			b=500;
+			drawBorder=1;
+		};
+		class Item33
+		{
+			position[]={26932.094,7.6908693,28167.186};
+			name="SpawnMountIsaIcon";
+			text="";
+			type="ExileSpawnZoneIcon";
+		};
+		class Item34
+		{
+			position[]={32522.773,8.8079491,29592.563};
+			name="SpawnCairns";
+			text="Cairns";
+			type="ExileSpawnZone";
+			markerType="ELLIPSE";
+			colorName="ColorBlack";
+			fillName="Border";
+			a=500;
+			b=500;
+			drawBorder=1;
+		};
+		class Item35
+		{
+			position[]={32522.773,8.8079491,29592.563};
+			name="SpawnCairnsIcon";
+			text="";
+			type="ExileSpawnZoneIcon";
+		};
+		class Item36
+		{
+			position[]={34690.57,49.457859,25654.75};
+			name="SpawnRockhampton";
+			text="Rockhamton";
+			type="ExileSpawnZone";
+			markerType="ELLIPSE";
+			colorName="ColorBlack";
+			fillName="Border";
+			a=500;
+			b=500;
+			drawBorder=1;
+		};
+		class Item37
+		{
+			position[]={34690.57,49.457859,25654.75};
+			name="SpawnRockhamptonIcon";
+			text="";
+			type="ExileSpawnZoneIcon";
+		};
+		class Item38
+		{
+			position[]={16243.525,8.5,34144.297};
+			name="DarwinTraders";
+			text="";
+			type="ExileTraderZone";
+			markerType="ELLIPSE";
+			colorName="ColorBlack";
+			fillName="Border";
+			a=175;
+			b=175;
+			drawBorder=1;
+		};
+		class Item39
+		{
+			position[]={16243.525,8.5,34144.297};
+			name="DarwinTradersMarkerIcon";
+			text="Darwin Trader's";
+			type="ExileTraderZoneIcon";
+		};
+		class Item40
+		{
+			position[]={29043,5.8302999,36367.391};
+			name="WeipaTraders";
+			text="";
+			type="ExileTraderZone";
+			markerType="ELLIPSE";
+			colorName="ColorBlack";
+			fillName="Border";
+			a=175;
+			b=175;
+			drawBorder=1;
+		};
+		class Item41
+		{
+			position[]={29043,5.8302999,36367.391};
+			name="WeipaTradersMarkerIcon";
+			text="Weipa's Traders";
+			type="ExileTraderZoneIcon";
+		};
+		class Item42
+		{
+			position[]={27486.75,25.566244,23865.873};
+			name="XxFri3ndlyxXTraders";
+			text="";
+			type="ExileTraderZone";
+			markerType="ELLIPSE";
+			colorName="ColorBlack";
+			fillName="Border";
+			a=175;
+			b=175;
+			drawBorder=1;
+		};
+		class Item43
+		{
+			position[]={27486.75,25.566244,23865.873};
+			name="XxFri3ndlyxXTradersMarkerIcon";
+			text="XxFri3ndlyxX's Traders";
+			type="ExileTraderZoneIcon";
+		};
+		class Item44
+		{
+			position[]={24613.174,7.4310384,12299.589};
+			name="AdelaideTraders";
+			text="";
+			type="ExileTraderZone";
+			markerType="ELLIPSE";
+			colorName="ColorBlack";
+			fillName="Border";
+			a=175;
+			b=175;
+			drawBorder=1;
+		};
+		class Item45
+		{
+			position[]={24613.174,7.4310384,12299.589};
+			name="AdelaideTradersMarkerIcon";
+			text="Adelaide's Traders";
+			type="ExileTraderZoneIcon";
+		};
+		class Item46
+		{
+			position[]={39061.457,4.0001502,19844.313};
+			name="BrisbaneTraders";
+			text="";
+			type="ExileTraderZone";
+			markerType="ELLIPSE";
+			colorName="ColorBlack";
+			fillName="Border";
+			a=175;
+			b=175;
+			drawBorder=1;
+		};
+		class Item47
+		{
+			position[]={39061.457,4.0001502,19844.313};
+			name="BrisbaneTradersMarkerIcon";
+			text="Brisbane's Traders";
+			type="ExileTraderZoneIcon";
+		};
+		class Item48
+		{
+			position[]={3499.377,5,16516.152};
+			name="PerthTraders";
+			text="";
+			type="ExileTraderZone";
+			markerType="ELLIPSE";
+			colorName="ColorBlack";
+			fillName="Border";
+			a=175;
+			b=175;
+			drawBorder=1;
+		};
+		class Item49
+		{
+			position[]={3499.377,5,16516.152};
+			name="PerthTradersMarkerIcon";
+			text="Perth's Traders";
+			type="ExileTraderZoneIcon";
+		};
+		class Item50
+		{
+			position[]={10570.99,77.809708,25232.754};
+			name="WestAustraliaTraders";
+			text="";
+			type="ExileTraderZone";
+			markerType="ELLIPSE";
+			colorName="ColorBlack";
+			fillName="Border";
+			a=175;
+			b=175;
+			drawBorder=1;
+		};
+		class Item51
+		{
+			position[]={10570.99,77.809708,25232.754};
+			name="WestAustraliaTradersMarkerIcon";
+			text="West Australia's Traders";
+			type="ExileTraderZoneIcon";
+		};
+		class Item52
+		{
+			position[]={19612.725,18.114525,24748.586};
+			name="PineGapTraders";
+			text="";
+			type="ExileTraderZone";
+			markerType="ELLIPSE";
+			colorName="ColorBlack";
+			fillName="Border";
+			a=175;
+			b=175;
+			drawBorder=1;
+		};
+		class Item53
+		{
+			position[]={19612.725,18.114525,24748.586};
+			name="PineGapTradersMarkerIcon";
+			text="Pine Gap's traders";
+			type="ExileTraderZoneIcon";
+		};
+		class Item54
+		{
+			position[]={30976.998,9.3869143,8541.1182};
+			name="PhillipTraders";
+			text="";
+			type="ExileTraderZone";
+			markerType="ELLIPSE";
+			colorName="ColorBlack";
+			fillName="Border";
+			a=175;
+			b=175;
+			drawBorder=1;
+		};
+		class Item55
+		{
+			position[]={30976.998,9.3869143,8541.1182};
+			name="PhillipTradersMarkerIcon";
+			text="Phillip's Traders";
+			type="ExileTraderZoneIcon";
+		};
+	};
+};
+class Intro
+{
+	addOns[]=
+	{
+		"australia"
+	};
+	addOnsAuto[]=
+	{
+		"australia"
+	};
+	randomSeed=3611332;
+	class Intel
+	{
+		timeOfChanges=1800.0002;
+		startWeather=0.30000001;
+		startWind=0.1;
+		startWaves=0.1;
+		forecastWeather=0.30000001;
+		forecastWind=0.1;
+		forecastWaves=0.1;
+		forecastLightnings=0.1;
+		year=2035;
+		month=6;
+		day=24;
+		hour=12;
+		minute=0;
+		startFogDecay=0.013;
+		forecastFogDecay=0.013;
+	};
+};
+class OutroWin
+{
+	addOns[]=
+	{
+		"australia"
+	};
+	addOnsAuto[]=
+	{
+		"australia"
+	};
+	randomSeed=15572598;
+	class Intel
+	{
+		timeOfChanges=1800.0002;
+		startWeather=0.30000001;
+		startWind=0.1;
+		startWaves=0.1;
+		forecastWeather=0.30000001;
+		forecastWind=0.1;
+		forecastWaves=0.1;
+		forecastLightnings=0.1;
+		year=2035;
+		month=6;
+		day=24;
+		hour=12;
+		minute=0;
+		startFogDecay=0.013;
+		forecastFogDecay=0.013;
+	};
+};
+class OutroLoose
+{
+	addOns[]=
+	{
+		"australia"
+	};
+	addOnsAuto[]=
+	{
+		"australia"
+	};
+	randomSeed=13194853;
+	class Intel
+	{
+		timeOfChanges=1800.0002;
+		startWeather=0.30000001;
+		startWind=0.1;
+		startWaves=0.1;
+		forecastWeather=0.30000001;
+		forecastWind=0.1;
+		forecastWaves=0.1;
+		forecastLightnings=0.1;
+		year=2035;
+		month=6;
+		day=24;
+		hour=12;
+		minute=0;
+		startFogDecay=0.013;
+		forecastFogDecay=0.013;
+	};
+};
